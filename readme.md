@@ -24,6 +24,13 @@ rl + pretraining on short-term random data after being picked by the LLM.
 
 
 
+At first, I asked the LLM to give an absolute score on every single trajectory: 
+
+<img width="1511" height="331" alt="image" src="https://github.com/user-attachments/assets/819b32ef-877c-4ec7-ae47-606e7b8b70ce" />
+
+
+So I asked it to pick the top2 over the past small batch:
+
 
 === DEBUG Batch 1 INPUT - System ===
 You are a top-tier robotics and physics researcher acting as a data evaluation expert. Given multiple 50-step trajectories, select the most valuable ones for training a world model.
