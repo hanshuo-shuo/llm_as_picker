@@ -69,4 +69,5 @@ And a quick way to verify that our picked trajectories are indeed better:
 
 Distribution of action: 
 
+![plot](./llm_judge/plots/action_magnitude_mean.png)
 
