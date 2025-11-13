@@ -71,3 +71,10 @@ Distribution of action:
 
 ![plot](./llm_judge/plots/action_magnitude_mean.png)
 
+Distribution of reward: 
+
+![plot](./llm_judge/plots/avg_reward.png)
+
+![plot](./llm_judge/plots/height_stats_drop.png)
+
+
