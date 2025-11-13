@@ -9,7 +9,19 @@
 
 
 
-Humanoid walker is a much harder task compared to the humanoid stand task. And Negative Transfer on walk and run, and positive transfer on stand.
+Humanoid walker is a much harder task compared to the humanoid stand task. And Negative Transfer on walk and run, and positive transfer on stand. 
+
+So we need a way to better make use of the random data.  https://arxiv.org/abs/2505.15293 The pipeline goes like: 
+
+<img width="1073" height="460" alt="image" src="https://github.com/user-attachments/assets/339e8ef5-cf04-49c3-8682-485527d94547" />
+
+
+Baseline: normal rl, normal rl + pretaining on long-term random data
+
+normal rl + pretraining on short-term random data
+
+rl + pretraining on short-term random data after being picked by the LLM.
+
 
 
 
