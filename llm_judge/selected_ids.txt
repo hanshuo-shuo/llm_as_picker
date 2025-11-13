@@ -1,0 +1,396 @@
+# batch 1
+episode_00002	High state change magnitude and dynamic richness, indicating a diverse range of physical interactions.
+episode_00009	High total reward and success rate, suggesting a well-designed trajectory that explores a wide range of physical phenomena.
+
+# batch 2
+episode_00012	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00018	High total reward and dynamic richness, with a significant height drop and low average uprightness, indicating a challenging and informative episode.
+
+# batch 3
+episode_00021	Significant height drop and high state change magnitude, indicating a complex and dynamic environment.
+episode_00026	High state change magnitude and moderate action smoothness, suggesting a challenging and realistic scenario.
+
+# batch 4
+episode_00038	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00037	High state change magnitude and dynamic richness, with a significant height drop and moderate average uprightness, indicating a more complex and varied environment.
+
+# batch 5
+episode_00046	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00047	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high action smoothness.
+
+# batch 6
+episode_00051	Higher state change magnitude and action smoothness compared to other episodes
+episode_00057	Highest total reward and average reward among all episodes, indicating a more successful and informative trajectory
+
+# batch 7
+episode_00061	Higher state change magnitude and action smoothness compared to other episodes
+episode_00066	Higher total reward and average reward compared to other episodes
+
+# batch 8
+episode_00071	Significant height drop and low average uprightness, indicating a challenging and informative episode
+episode_00078	High total reward and state change magnitude, suggesting a complex and dynamic environment
+
+# batch 9
+episode_00085	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00084	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 10
+episode_00094	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00095	High state change magnitude and action magnitude, indicating a dynamic and challenging environment.
+
+# batch 11
+episode_00106	High state change magnitude and dynamic richness, with a significant height drop and plausible action consequences.
+episode_00107	High state change magnitude and dynamic richness, with a significant height drop and plausible action consequences, and a relatively high average uprightness.
+
+# batch 12
+episode_00112	High state change magnitude and low average uprightness suggest a rich and challenging environment
+episode_00119	High state change magnitude and moderate action smoothness indicate a complex and dynamic environment
+
+# batch 13
+episode_00129	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00128	High total reward and average reward, suggesting a successful and informative episode with diverse actions and outcomes.
+
+# batch 14
+episode_00135	High state change magnitude and upright statistics suggest a diverse and challenging environment
+episode_00139	High total reward and average reward indicate a well-performing agent in a complex environment
+
+# batch 15
+episode_00142	Significant height drop and moderate action magnitude, indicating a complex and dynamic environment.
+episode_00147	Large state changes and moderate action smoothness, suggesting a challenging and realistic scenario for learning physics and action consequences.
+
+# batch 16
+episode_00151	Higher state change magnitude and action smoothness compared to other episodes
+episode_00154	Higher total reward and action magnitude compared to other episodes
+
+# batch 17
+episode_00164	High state change magnitude and action smoothness, indicating a complex and dynamic environment
+episode_00168	High state change magnitude and action magnitude, indicating a challenging and varied environment
+
+# batch 18
+episode_00176	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00174	High state change magnitude and dynamic richness, with a significant height drop and moderate average uprightness.
+
+# batch 19
+episode_00185	High state change magnitude and action smoothness, indicating a complex and dynamic environment
+episode_00189	High state change magnitude and action magnitude, indicating a challenging and varied environment
+
+# batch 20
+episode_00192	Significant height drop and state changes, indicating a complex and dynamic environment
+episode_00194	High state change magnitude and action smoothness, suggesting a challenging and realistic scenario
+
+# batch 21
+episode_00203	Highest total reward and state change magnitude, indicating a rich and varied environment
+episode_00202	High state change magnitude and action smoothness, suggesting a complex and dynamic environment
+
+# batch 22
+episode_00216	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00218	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 23
+episode_00225	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00229	High total reward and average reward, with a moderate state change magnitude and dynamic richness, and a significant height drop and low average uprightness.
+
+# batch 24
+episode_00235	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00239	High state change magnitude and dynamic richness, with a moderate height drop and low average uprightness, indicating a challenging and varied environment.
+
+# batch 25
+episode_00245	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00246	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high action smoothness.
+
+# batch 26
+episode_00252	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00256	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high action smoothness.
+
+# batch 27
+episode_00264	High state change magnitude and action smoothness, indicating a complex and varied environment
+episode_00266	High state change magnitude and action magnitude, indicating a challenging and dynamic environment
+
+# batch 28
+episode_00274	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00278	High total reward and average reward, suggesting a challenging and engaging environment that can be learned from.
+
+# batch 29
+episode_00285	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00286	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high action smoothness.
+
+# batch 30
+episode_00291	Significant height drop and high state change magnitude imply rich dynamics and causal coherence.
+episode_00296	High state change magnitude and low average uprightness suggest a challenging and informative episode for learning physics and action consequences.
+
+# batch 31
+episode_00304	Low average uprightness and significant height drop, indicating a challenging and informative episode
+episode_00307	High state change magnitude and significant height drop, suggesting a diverse and informative episode
+
+# batch 32
+episode_00314	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00315	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a high total reward.
+
+# batch 33
+episode_00326	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00329	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 34
+episode_00330	Significant height drop and high state change magnitude imply rich dynamics and causal coherence.
+episode_00338	High total reward and average reward suggest a valuable learning experience with plausible physics and action consequences.
+
+# batch 35
+episode_00346	High state change magnitude and upright statistics suggest a diverse and challenging environment
+episode_00349	High total reward and average reward indicate a well-performing agent in a complex environment
+
+# batch 36
+episode_00355	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00359	High state change magnitude and dynamic richness, with a significant height drop and moderate average uprightness, indicating a challenging and diverse environment for learning.
+
+# batch 37
+episode_00366	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00369	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 38
+episode_00374	High state change magnitude and action smoothness, indicating a complex and varied environment
+episode_00379	High state change magnitude and action smoothness, indicating a complex and varied environment
+
+# batch 39
+episode_00384	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00389	High total reward and average reward, suggesting a successful and informative episode with diverse actions and outcomes.
+
+# batch 40
+episode_00391	Higher total reward and state change magnitude compared to other episodes
+episode_00398	Highest state change magnitude and longest trajectory among all episodes
+
+# batch 41
+episode_00409	High state change magnitude and action smoothness, indicating a rich and coherent episode
+episode_00408	High total reward and average reward, indicating a successful and valuable episode
+
+# batch 42
+episode_00415	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00419	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high average reward.
+
+# batch 43
+episode_00426	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00429	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a high total reward.
+
+# batch 44
+episode_00435	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00436	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a high total reward.
+
+# batch 45
+episode_00445	High state change magnitude and upright statistics suggest a rich and varied environment
+episode_00446	High state change magnitude and upright statistics suggest a rich and varied environment
+
+# batch 46
+episode_00455	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00459	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 47
+episode_00465	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00469	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a high action smoothness mean.
+
+# batch 48
+episode_00474	High state change magnitude and action smoothness, indicating a complex and dynamic environment.
+episode_00479	High total reward and average reward, indicating a successful and challenging episode with diverse actions and outcomes.
+
+# batch 49
+episode_00488	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00486	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 50
+episode_00491	Higher state change magnitude and action smoothness compared to other episodes
+episode_00498	Higher action magnitude and state change magnitude compared to other episodes
+
+# batch 51
+episode_00508	High total reward and state change magnitude, indicating a rich and varied environment
+episode_00509	High total reward and action smoothness, suggesting a well-balanced and coherent action sequence
+
+# batch 52
+episode_00512	Significant height drop and high state change magnitude, indicating a complex and dynamic environment.
+episode_00519	High state change magnitude and moderate action smoothness, suggesting a challenging and varied environment with a mix of fast and slow movements.
+
+# batch 53
+episode_00523	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00528	High state change magnitude and action smoothness, indicating a rich and coherent environment, with a notable height drop and low average uprightness.
+
+# batch 54
+episode_00538	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00539	High state change magnitude and action smoothness, indicating a rich and coherent environment, with a significant height drop and low average uprightness, making it a valuable episode for learning physics and action consequences.
+
+# batch 55
+episode_00546	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00549	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 56
+episode_00556	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00558	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high action smoothness.
+
+# batch 57
+episode_00562	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00569	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 58
+episode_00576	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00577	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a high total reward.
+
+# batch 59
+episode_00585	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00584	High state change magnitude and dynamic richness, with a significant height drop and moderate average uprightness, making it a valuable episode for learning physics and action consequences.
+
+# batch 60
+episode_00598	High state change magnitude and low average uprightness suggest a rich and challenging environment
+episode_00597	High total reward and state change magnitude indicate a complex and dynamic environment
+
+# batch 61
+episode_00604	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00607	High total reward and average reward, indicating a successful and informative episode.
+
+# batch 62
+episode_00612	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00613	High state change magnitude and action smoothness, indicating a rich and coherent environment, with a higher total reward than episode_00612.
+
+# batch 63
+episode_00626	Highest state change magnitude and highest average action smoothness
+episode_00623	Highest total reward and highest average action magnitude
+
+# batch 64
+episode_00638	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00639	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 65
+episode_00642	High state change magnitude and dynamic richness, indicating a diverse range of physical interactions.
+episode_00646	High state change magnitude and dynamic richness, indicating a diverse range of physical interactions, and a moderate level of action smoothness, suggesting a balance between exploration and exploitation.
+
+# batch 66
+episode_00653	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00654	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 67
+episode_00662	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00668	High total reward and learning value, with a high state change magnitude and dynamic richness, and a significant height drop and low average uprightness.
+
+# batch 68
+episode_00671	Higher state change magnitude and action smoothness compared to other episodes
+episode_00679	Higher average reward and action magnitude compared to other episodes
+
+# batch 69
+episode_00682	High state change magnitude and upright statistics suggest a diverse and challenging environment
+episode_00688	High total reward and upright statistics indicate a complex and dynamic environment
+
+# batch 70
+episode_00691	Higher state change magnitude and action smoothness compared to other episodes
+episode_00698	Higher state change magnitude and action smoothness compared to other episodes
+
+# batch 71
+episode_00702	Significant height drop and high state change magnitude, indicating a complex and dynamic environment.
+episode_00706	High state change magnitude and low average uprightness, suggesting a challenging and unpredictable environment.
+
+# batch 72
+episode_00714	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00718	High state change magnitude and action magnitude, indicating a dynamic and challenging environment.
+
+# batch 73
+episode_00724	High state change magnitude and action smoothness, indicating a rich and coherent environment.
+episode_00729	High state change magnitude and action magnitude, indicating a challenging and dynamic environment.
+
+# batch 74
+episode_00732	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00739	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 75
+episode_00744	High state change magnitude and average reward, indicating a rich and informative trajectory
+episode_00748	High state change magnitude and average reward, indicating a rich and informative trajectory
+
+# batch 76
+episode_00752	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00759	High state change magnitude, dynamic richness, and learning value, with a significant height drop and low average uprightness, making it a valuable episode for learning physics and action consequences.
+
+# batch 77
+episode_00762	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00766	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 78
+episode_00774	High state change magnitude and low average uprightness suggest a rich and challenging environment for learning.
+episode_00779	High total reward and moderate state change magnitude indicate a good balance between exploration and exploitation, making it a valuable episode for learning.
+
+# batch 79
+episode_00785	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00789	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 80
+episode_00794	High state change magnitude and action smoothness, indicating a complex and dynamic environment
+episode_00798	High total reward and average reward, indicating a successful and rewarding episode
+
+# batch 81
+episode_00806	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00807	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high action smoothness.
+
+# batch 82
+episode_00812	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00815	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 83
+episode_00822	High state change magnitude and average action smoothness, indicating a rich and varied environment.
+episode_00828	High state change magnitude and average action smoothness, indicating a rich and varied environment, with a moderate height drop and upright changes.
+
+# batch 84
+episode_00832	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00835	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high action smoothness.
+
+# batch 85
+episode_00846	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00847	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 87
+episode_00866	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00869	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a high action smoothness mean.
+
+# batch 88
+episode_00875	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00879	High total reward and learning value, with a high state change magnitude and dynamic richness, and a significant height drop and low average uprightness.
+
+# batch 89
+episode_00886	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00889	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 90
+episode_00892	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00898	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 91
+episode_00906	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00909	High total reward and average reward, with a high state change magnitude and dynamic richness, and a significant height drop and low average uprightness.
+
+# batch 92
+episode_00916	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00914	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a high total reward.
+
+# batch 93
+episode_00926	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00925	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 94
+episode_00936	Highest state change magnitude and highest total reward
+episode_00937	Highest state change magnitude and high total reward
+
+# batch 95
+episode_00946	High state change magnitude and low average uprightness suggest a rich and challenging environment for learning.
+episode_00948	High state change magnitude and moderate action smoothness indicate a dynamic and varied environment with potential for learning valuable physics and action consequences.
+
+# batch 96
+episode_00953	Highest state change magnitude and highest total reward
+episode_00958	High state change magnitude and high total reward, with a good balance between action magnitude and smoothness
+
+# batch 97
+episode_00968	High total reward and state change magnitude, indicating a rich and varied environment
+episode_00967	High total reward and state change magnitude, indicating a rich and varied environment
+
+# batch 98
+episode_00979	This episode has a moderate height drop and a relatively high average action smoothness, indicating a more controlled and deliberate movement.
+episode_00978	This episode has a significant height drop and a high total reward, suggesting a more complex and challenging environment that requires the model to learn more nuanced physics and action consequences.
+
+# batch 99
+episode_00984	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness.
+episode_00987	High state change magnitude and dynamic richness, with a significant height drop and low average uprightness, and a relatively high total reward.
+
+# batch 100
+episode_00994	High state change magnitude and low average uprightness, indicating a complex and challenging scenario
+episode_00999	High total reward and state change magnitude, suggesting a scenario with a high degree of complexity and variability
+

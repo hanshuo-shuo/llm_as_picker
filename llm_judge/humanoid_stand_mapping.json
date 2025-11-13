@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "key": "joint_angles",
+      "start": 0,
+      "end": 21,
+      "shape": [
+        21
+      ]
+    },
+    {
+      "key": "head_height",
+      "start": 21,
+      "end": 22,
+      "shape": []
+    },
+    {
+      "key": "extremities",
+      "start": 22,
+      "end": 34,
+      "shape": [
+        12
+      ]
+    },
+    {
+      "key": "torso_vertical",
+      "start": 34,
+      "end": 37,
+      "shape": [
+        3
+      ]
+    },
+    {
+      "key": "com_velocity",
+      "start": 37,
+      "end": 40,
+      "shape": [
+        3
+      ]
+    },
+    {
+      "key": "velocity",
+      "start": 40,
+      "end": 67,
+      "shape": [
+        27
+      ]
+    }
+  ]
+}
