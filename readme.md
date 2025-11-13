@@ -1,3 +1,18 @@
+
+<img width="762" height="477" alt="image" src="https://github.com/user-attachments/assets/671eb4ae-d9de-4878-a2a4-cb888c81a31c" />
+
+
+<img width="725" height="452" alt="image" src="https://github.com/user-attachments/assets/059627c8-bdb7-48a4-9f58-70c37498ea05" />
+
+
+<img width="853" height="558" alt="image" src="https://github.com/user-attachments/assets/966ada31-e4e8-428b-b162-93af8d227c30" />
+
+
+
+Humanoid walker is a much harder task compared to the humanoid stand task. And Negative Transfer on walk and run, and positive transfer on stand.
+
+
+
 === DEBUG Batch 1 INPUT - System ===
 You are a top-tier robotics and physics researcher acting as a data evaluation expert. Given multiple 50-step trajectories, select the most valuable ones for training a world model.
 
