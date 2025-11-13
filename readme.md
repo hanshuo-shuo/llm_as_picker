@@ -63,3 +63,11 @@ Here are the two selected trajectories:
 }
 
 I selected these two trajectories because they exhibit high dynamic richness, which is essential for learning a world model. Episode 00002 has a high state change magnitude, indicating a diverse range of physical interactions, while episode 00009 has a high total reward and success rate, suggesting a well-designed trajectory that explores a wide range of physical phenomena.
+
+
+And a quick way to verify that our picked trajectories are indeed better:
+
+Distribution of action: 
+
+![Alt text](\llm_judge\plots\action_magnitude_mean.png_ "Optional title")
+
